@@ -19,5 +19,24 @@
         height:500px;
         padding-top:100px;
     }
+    .slider-img{
+        height:400px !important
+    }
+    .custom-product{
+        height: 400px;
+    }
+    .slider-text{
+        background-color: #24465454 !important
+    }
+    .trending-img{
+        height:100px;
+    }
+    .trending-item{
+        width:25%;
+        float: left;
+    }
+    .trending-wrapper{
+        margin: 20px;
+    }
 </style>
 </html>
